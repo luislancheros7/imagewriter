@@ -1,0 +1,4 @@
+https://software.opensuse.org/download.html?project=home%3AKenzy%3Apackages&package=imagewriter
+
+dnf config-manager --add-repo https://download.opensuse.org/repositories/home:Kenzy:packages/Fedora_26/home:Kenzy:packages.repo
+dnf install imagewriter
